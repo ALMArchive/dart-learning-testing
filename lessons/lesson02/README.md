@@ -1,4 +1,4 @@
-# Dart Learning Testing: Lesson 02 First Tests
+# Lesson 02 - First Tests
 
 Now we create a set of testable functions.
 

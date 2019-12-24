@@ -1,4 +1,4 @@
-# Dart Learning Testing: Lesson 04 Multiple Test Groups
+# Lesson 04 - Multiple Test Groups
 
 Lets add more functions to our library and then add test groups for them
 

@@ -1,4 +1,4 @@
-# Dart Learning Testing: Lesson 03 Test Suite
+# Lesson 03 - Test Suite
 
 Now we create and run a suite of tests.
 

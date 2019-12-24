@@ -1,4 +1,4 @@
-# Dart Learning Testing: Lesson 01 Project Setup
+# Lesson 01 - Project Setup
 
 Begin by creating an empty directory that has a `pubspec.yaml` in it.
 

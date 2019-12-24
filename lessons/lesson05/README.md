@@ -1,4 +1,4 @@
-# Dart Learning Testing: Lesson 05 Modular Library, Modular Tests
+# Lesson 05 - Modular Library, Modular Tests
 
 Lets separate out our library into multiple, individually testable files.
 
