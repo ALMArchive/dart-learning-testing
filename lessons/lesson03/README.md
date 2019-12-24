@@ -7,6 +7,7 @@ Now we create and run a suite of tests.
 First we will create a set of individual tests as so:
 
 ```dart
+void main() {
   test("That add(1, 0) is 1.", () {
     expect(add(1, 0), equals(1));
   });
@@ -29,7 +30,9 @@ You should see `+6: All tests passed!`.
 
 Now we will group the individual tests into a test suite.
 
+#### `src/src.dart`
 ```dart
+void main() {
   group("add", () {
     test("That add(1, 0) is 1.", () {
       expect(add(1, 0), equals(1));
