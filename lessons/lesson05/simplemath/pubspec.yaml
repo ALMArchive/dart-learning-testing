@@ -1,0 +1,6 @@
+name: simplemath
+version: 0.0.1
+description: >-
+  A simple math library created to practice testing.
+dependencies:
+  test: 1.9.4
